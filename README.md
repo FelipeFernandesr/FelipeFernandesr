@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Meu nome é Felipe, sou natural do Rio de Janeiro. Sou formado em Análise e Desenvolvimento de Sistemas na Unicarioca. Sou apaixonada por tecnologia e atualmente estou cursando a formação de Desenvolvedor Front-end da DNC.
+Olá! Bem vindo ao meu repositório. Sou natural do Rio de Janeiro. Sou formado em Análise e Desenvolvimento de Sistemas na Unicarioca. Sou apaixonada por tecnologia e atualmente estou cursando a formação de Desenvolvedor Front-end da DNC.
 
     Quando tenho um tempo livre:
     🎡 Procuro diversão com a familia.
