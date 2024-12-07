@@ -11,20 +11,18 @@ Olá! Bem vindo ao meu repositório. Sou natural do Rio de Janeiro. Sou formado 
     🎸 Também arranho uma guitarra. Aguça a criatividade.
 
 <p align="left"> 
-    <!--
     <a href="https://github.com/FelipeFernandesr?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/FelipeFernandesr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/felipefernandesr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    -->
     <a href="https://github.com/FelipeFernandesr?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FelipeFernandesr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/felipefernandesr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -160,7 +158,7 @@ Olá! Bem vindo ao meu repositório. Sou natural do Rio de Janeiro. Sou formado 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeFernandesr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=felipefernandesr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
